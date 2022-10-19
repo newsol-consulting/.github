@@ -7,26 +7,42 @@
 ## Aplicaciones / Proyectos
 ### NewSoD
 <!-- TOC -->
-* [NewSoD LAM Backend](https://github.com/newsol-consulting/Newsol-NewSoD-LAM)
+* [LAM Backend](https://github.com/newsol-consulting/Newsol-NewSoD-LAM)
 <!-- TOC -->
 ### NewSoD Prototipo Java
 <!-- TOC -->
-* [NewSoD Backend](https://gitlab.com/n3968/backend)
-* [NewSoD Clases de Riesgos](https://gitlab.com/n3968/clases-de-riesgos)
-* [NewSoD Controles Mitigantes](https://gitlab.com/n3968/controles-mitigantes)
-* [NewSoD Funciones](https://gitlab.com/n3968/funciones)
-* [NewSoD Gestión de Accesos](https://gitlab.com/n3968/gestion-de-accesos)
-* [NewSoD Niveles Riesgos](https://gitlab.com/n3968/niveles-riesgos)
-* [NewSoD Procesos Empresariales](https://gitlab.com/n3968/procesos-empresariales)
-* [NewSoD Riesgos](https://gitlab.com/n3968/riesgos)
-* [NewSoD Selector de sociedad](https://gitlab.com/n3968/selector-de-sociedad)
-* [NewSoD Sociedades](https://gitlab.com/n3968/sociedades)
-* [NewSoD Solicitudes Usuarios](https://gitlab.com/n3968/solicitudes-usuarios)
-* [NewSoD Viceprecidencia](https://gitlab.com/n3968/viceprecidencia)
+* [Backend](https://gitlab.com/n3968/backend)
+* [Clases de Riesgos](https://gitlab.com/n3968/clases-de-riesgos)
+* [Controles Mitigantes](https://gitlab.com/n3968/controles-mitigantes)
+* [Funciones](https://gitlab.com/n3968/funciones)
+* [Gestión de Accesos](https://gitlab.com/n3968/gestion-de-accesos)
+* [Niveles Riesgos](https://gitlab.com/n3968/niveles-riesgos)
+* [Procesos Empresariales](https://gitlab.com/n3968/procesos-empresariales)
+* [Riesgos](https://gitlab.com/n3968/riesgos)
+* [Selector de sociedad](https://gitlab.com/n3968/selector-de-sociedad)
+* [Sociedades](https://gitlab.com/n3968/sociedades)
+* [Solicitudes Usuarios](https://gitlab.com/n3968/solicitudes-usuarios)
+* [Viceprecidencia](https://gitlab.com/n3968/viceprecidencia)
+<!-- TOC -->
+### Add-on SSFF
+<!-- TOC -->
+* [Aprobación Prestamos Usuario Externo](https://gitlab.com/add-on-ssff/aprobacion-prestamos-usuario-externo)
+* [Aprobación Prestamos Modulo Prestamos](https://github.com/newsol-consulting/Newsol-NewDigifile)
+* [Backend](https://gitlab.com/add-on-ssff/backend)
+* [Backend Java](https://gitlab.com/add-on-ssff/backend-java)
+* [Backend Modulo Prestamos](https://gitlab.com/add-on-ssff/backend-modulo-prestamos)
+* [Cancelar Prestamos Modulo Prestamos](https://gitlab.com/add-on-ssff/cancelar-prestamos-modulo-prestamos)
+* [Cargos Roles](https://gitlab.com/add-on-ssff/cargos-roles)
+* [Configuración Modulo Prestamos](https://gitlab.com/add-on-ssff/configuracion-modulo-prestamos)
+* [Creación Prestamos Modulo Prestamos](https://gitlab.com/add-on-ssff/creacion-prestamos-modulo-prestamos)
+* [Logs Modulo Prestamos](https://gitlab.com/add-on-ssff/logs-modulo-prestamos)
+* [Mi Lista Prestamos Modulo Prestamos](https://gitlab.com/add-on-ssff/mi-lista-prestamos-modulo-prestamos)
+* [Modulo Prestamos Plugin](https://gitlab.com/add-on-ssff/modulo-prestamos-plugin)
+* [Report Prestamos Modulo Prestamos](https://gitlab.com/add-on-ssff/report-prestamos-modulo-prestamos)
 <!-- TOC -->
 ### NewDigifile
 <!-- TOC -->
-* [NewDigifile Backend](https://github.com/newsol-consulting/Newsol-NewDigifile)
+* [Backend](https://github.com/newsol-consulting/Newsol-NewDigifile)
 <!-- TOC -->
 ### Ejercicios
 <!-- TOC -->
