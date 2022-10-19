@@ -2,7 +2,7 @@
 ## Aplicaciones / Proyectos
 ### NewSoD
 <!-- TOC -->
-* [NewSoD-LAM-BACKEND](https://github.com/newsol-consulting/Newsol-NewSoD-LAM)
+* [NewSoD LAM Backend](https://github.com/newsol-consulting/Newsol-NewSoD-LAM)
 <!-- TOC -->
 ### NewDigifile
 <!-- TOC -->
