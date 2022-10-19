@@ -40,6 +40,18 @@
 * [Modulo Prestamos Plugin](https://gitlab.com/add-on-ssff/modulo-prestamos-plugin)
 * [Report Prestamos Modulo Prestamos](https://gitlab.com/add-on-ssff/report-prestamos-modulo-prestamos)
 <!-- TOC -->
+### E-commerce
+<!-- TOC -->
+* [Backend](https://gitlab.com/e-commerce54/backend)
+* [Configuración](https://gitlab.com/e-commerce54/configuracion)
+* [E-Commerce](https://gitlab.com/e-commerce54/e-commerce)
+* [Vendedores](https://gitlab.com/e-commerce54/vendedores)
+<!-- TOC -->
+### Newsol
+<!-- TOC -->
+* [Test Backend Node](https://gitlab.com/new128/test-backend-node)
+* [Website](https://gitlab.com/new128/website)
+<!-- TOC -->
 ### NewDigifile
 <!-- TOC -->
 * [Backend](https://github.com/newsol-consulting/Newsol-NewDigifile)
