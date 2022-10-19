@@ -2,7 +2,7 @@
 ## Aplicaciones / Proyectos
 ### NewSoD
 <!-- TOC -->
-* [NewSoD-LAM-BACKEND](/Newsol-NewSoD-LAM)
+* [NewSoD-LAM-BACKEND](./Newsol-NewSoD-LAM)
 <!-- TOC -->
 ### NewDigifile
 <!-- TOC -->
