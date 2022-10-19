@@ -1,4 +1,9 @@
 # Repositorios de Código Fuente de Newsol
+## Metodologia
+### Ramas
+* Master: En esta rama se encuentra el código fuente usado en el ambiente de PRD del proyecto  
+* QAS: En esta rama se encuentra el código fuente que está siendo probado por el equipo de pruebas
+* DEV: En esta rama se encuentra el código fuente que se está desarrollando por el equipo de desarrollo, esta rama debe ser la usada por un nuevo desarrollador a la hora de crear su propia rama.
 ## Aplicaciones / Proyectos
 ### NewSoD
 <!-- TOC -->
