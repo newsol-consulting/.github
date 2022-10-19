@@ -2,17 +2,17 @@
 ## Aplicaciones / Proyectos
 ### NewSoD
 <!-- TOC -->
-* [NewSoD-LAM-BACKEND](./Newsol-NewSoD-LAM)
+* [NewSoD-LAM-BACKEND](https://github.com/newsol-consulting/Newsol-NewSoD-LAM)
 <!-- TOC -->
 ### NewDigifile
 <!-- TOC -->
-* [NewDigifile Backend](#Newsol-NewDigifile)
+* [NewDigifile Backend](https://github.com/newsol-consulting/Newsol-NewDigifile)
 <!-- TOC -->
 ### Ejercicios
 <!-- TOC -->
-* [Nodos](#Newsol-Ejercicios-Nodos)
+* [Nodos](https://github.com/newsol-consulting/Newsol-Ejercicios-Nodos)
 <!-- TOC -->
 ## Paquetes / Librerías
 <!-- TOC -->
-* [Spring Generic HTTP Services (JAVA)](#spring_generic_http_services)
+* [Spring Generic HTTP Services (JAVA)](https://github.com/newsol-consulting/spring_generic_http_services)
 <!-- TOC -->
